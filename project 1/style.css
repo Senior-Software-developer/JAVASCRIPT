@@ -1,0 +1,15 @@
+#parent>div{
+    height: 100px;
+    width:100px;
+    margin: 20px;
+    background-color: black;
+    border: 5px solid blue;
+}
+#parent>div>div{
+    height: 0.5em;
+    width:0.5em;
+     
+    background-color:red;
+    border: 5px solid white;
+    margin: 50%;
+}
